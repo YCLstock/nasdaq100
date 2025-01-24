@@ -200,6 +200,8 @@ const Dashboard = () => {
         <div className="mt-4 text-sm text-gray-500">
           <div>上次更新：{formatUpdateTime(lastUpdateTime)}</div>
           <div>下次更新：{formatUpdateTime(nextUpdateTime)}</div>
+          <div>來信 Email:justforlance04@gmail.com</div>
+          <div>For more information, feel free to contact us at: justforlance04@gmail.com</div>
         </div>
       </div>
     </div>
